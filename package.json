@@ -1,0 +1,17 @@
+{
+  "name": "gulp-twigjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@atolye15/eslint-config-base": "^1.0.17",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "fancy-log": "^1.3.3",
+    "map-stream": "^0.0.7",
+    "plugin-error": "^1.0.1",
+    "replace-ext": "^1.0.0",
+    "twig": "^1.13.3"
+  }
+}
