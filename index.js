@@ -7,8 +7,6 @@ const PLUGIN_NAME = 'gulp-twigjs';
 
 const twig = require('twig');
 
-twig.twig;
-
 module.exports = function(options, twig) {
   'use strict';
   options = Object.assign(
